@@ -1,5 +1,0 @@
- https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/http.txt
-https://cdn.jsdelivr.net/gh/proxifly/free-proxy-list@main/proxies/protocols/http/data.txt    
-https://vakhov.github.io/fresh-proxy-list/http.txt  
-https://vakhov.github.io/fresh-proxy-list/https.txt   
-https://raw.githubusercontent.com/TheSpeedX/PROXY-List/refs/heads/master/http.txt
